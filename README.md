@@ -19,6 +19,17 @@
 
 This is the official PyTorch implementation of the NeurIPS 2025 paper "TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation".
 
+## 📚 Related Works from Our Group
+
+| Venue | Paper | Code |
+|:-----:|:------|:----:|
+| **NeurIPS 2024** | [Graph Convolutions Enrich the Self-attention in Transformers!](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5eceb48c3bc8b5d936c05ff8e2ece65e-Abstract-Conference.html) | [![GitHub](https://img.shields.io/github/stars/jeongwhanchoi/gfsa?style=social)](https://github.com/jeongwhanchoi/gfsa) |
+| **ICML 2024** | [Polynomial-based Self-Attention for Table Representation Learning](https://proceedings.mlr.press/v235/kim24ae.html) | [![GitHub](https://img.shields.io/github/stars/JayoungKim408/TabPSA?style=social)](https://github.com/JayoungKim408/TabPSA) |
+| **AAAI 2024** | [An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention](https://ojs.aaai.org/index.php/AAAI/article/view/28747) | [![GitHub](https://img.shields.io/github/stars/yehjin-shin/BSARec?style=social)](https://github.com/yehjin-shin/BSARec) |
+| **IJCAI 2025** | [Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain](https://www.ijcai.org/proceedings/2025/0730) | [![GitHub](https://img.shields.io/github/stars/hyowonwi/agf?style=social)](https://github.com/hyowonwi/agf) |
+
+---
+
 ## 1. Install conda environments 
 
 ```
