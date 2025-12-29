@@ -6,7 +6,7 @@
 
 <div>
     <a href="https://yehjin-shin.github.io/" target="_blank"><b>Yehjin Shin</b></a>,
-      <a href="https://www.jeongwhanchoi.com" target="_blank"><b>Jeongwhan Choi</b></a>,
+      <a href="https://www.jeongwhanchoi.com" target="_blank">Jeongwhan Choi</a>,
       <a href="https://scholar.google.com/citations?user=4GpvarsAAAAJ&hl=en" target="_blank">Seojin Kim</a>,
       <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a>,
     <div>
